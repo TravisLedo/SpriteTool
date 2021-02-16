@@ -8,16 +8,16 @@ For those who just want to use the program, download the builds here.
 * [Download for MacOS](https://github.com/TravisLedo/SpriteTool) - Under construction
 
 
-![Results1](/screenshots/glue.gif?raw=true?"")
 ## Glue
+![Results1](/screenshots/glue.gif?raw=true?"")
 - Combine individual images to create a sprite sheet. 
 - Rearrange the list of images with drag and drop.
 - Preview individual images by clicking on the items in the list or the icons on the result window.
 - Preview animations from the result window.
 
 
-![Results2](/screenshots/split.gif?raw=true?"")
 ## Split
+![Results2](/screenshots/split.gif?raw=true?"")
 - Cut a sprite sheet into individual images.
 - Real time preview of where the image will be cut based on columns and rows.
 - Preview individual images by clicking on the icons in the result window.
