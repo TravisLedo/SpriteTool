@@ -9,11 +9,11 @@ Builds
 
 ## Glue
 Combine individual images to create a sprite sheet.
-![Results](/screenshots/mergess1.gif?raw=true "")
+![Results](/screenshots/mergess1.png?raw=true "")
 
 ## Split
 Cut a sprite sheet into individual images.
-![Results](/screenshots/splitss2.gif?raw=true "")
+![Results](/screenshots/splitss2.png?raw=true "")
 
 
 ## IDE
