@@ -13,7 +13,7 @@ Combine individual images to create a sprite sheet.
 
 ## Split
 Cut a sprite sheet into individual images.
-![Results](/screenshots/splitss2.png?raw=true "")
+![Results](/screenshots/splitss1.png?raw=true?"")
 
 
 ## IDE
