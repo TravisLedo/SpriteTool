@@ -1,6 +1,6 @@
 # SpriteTool
  
-Sprite Tool is an application designed with artists in mind. Game developers, animators, and etc. need a quick way to create sprite sheets or cut existing sheets into individual sprites. The user has the ability to preview the final results and animations. It is developed in C++ using QT Creator with the full source code provided. 
+Sprite Tool is an application designed with artists in mind. Game developers, animators, and etc. need a quick way to create sprite sheets or cut existing sheets into individual sprites. It is developed in C++ using QT Creator with the full source code provided. 
 
 
 For those who just want to use the program, download the builds here. 
@@ -9,13 +9,21 @@ For those who just want to use the program, download the builds here.
 
 
 ## Glue
-Combine individual images to create a sprite sheet. 
 ![Results1](/screenshots/gluess1.png?raw=true?"")
 
+- Combine individual images to create a sprite sheet. 
+- Rearrange the list of images with drag and drop.
+- Preview individual images by clicking on the items in the list or the icons on the result window.
+- Preview animations from the result window.
+
+
 ## Split
-Cut a sprite sheet into individual images.
 ![Results2](/screenshots/splitss1.png?raw=true?"")
 
+- Cut a sprite sheet into individual images.
+- Real time preview of where the image will be cut based on columns and rows.
+- Preview individual images by clicking on the icons in the result window.
+- Preview animations from the result window.
 
 ## IDE
 
