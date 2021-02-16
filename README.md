@@ -1,4 +1,4 @@
-![icon](/images/app_icon.png?raw=true?"")
+![icon](/images/app_icon.ico?raw=true?"")
 # SpriteTool
 
  
