@@ -18,7 +18,7 @@ Cut a sprite sheet into individual images.
 
 ## IDE
 
-* [QT](https://netbeans.org/) - QT Creator Open Source Version 6.0.1
+* [QT](https://www.qt.io/product/development-tools) - QT Creator Open Source Version 6.0.1
 
 
 ## Authors
