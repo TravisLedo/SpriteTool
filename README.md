@@ -7,7 +7,7 @@ Sprite Tool is an application designed with artists in mind. Game developers, an
 
 For those who just want to use the program, download the builds here. 
 * [Download for MacOS](https://github.com/TravisLedo/SpriteTool/raw/main/builds/MacOS/Sprite%20Tool%20MacOS.zip)
-* [Download for Windows](https://github.com/TravisLedo/SpriteTool/raw/main/builds/Windows/Sprite%20Tool%20Windows.zip) Unzip entire folder to use.
+* [Download for Windows](https://github.com/TravisLedo/SpriteTool/raw/main/builds/Windows/Sprite%20Tool%20Windows.zip) - Unzip entire folder to use.
 
 
 ## Glue
