@@ -2,7 +2,7 @@
 
 
  
-Sprite Tool is an application designed with artists in mind. Game developers, animators, and etc. need a quick way to create sprite sheets or cut existing sheets into individual sprites. This is the free, intuitive, offline solution to assist with these tasks. It is developed in C++ using QT Creator with the full source code provided. 
+Sprite Tool is an application designed with artists in mind. Game developers, animators, and etc. need a quick way to create sprite sheets or cut existing sheets into individual sprites. This is a free, intuitive, offline solution to assist with these tasks. It is developed in C++ using QT Creator with the full source code provided. 
 
 
 For those who just want to use the program, download the builds here. 
